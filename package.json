@@ -1,0 +1,22 @@
+{
+  "name": "splatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShijinC/Splatter.js.git"
+  },
+  "keywords": [
+    "test1183"
+  ],
+  "author": "Shijin Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShijinC/Splatter.js/issues"
+  },
+  "homepage": "https://github.com/ShijinC/Splatter.js#readme"
+}
